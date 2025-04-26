@@ -1,4 +1,4 @@
-# akshimalhotra
+# Profile
 # 👋 Hi, I'm Akshi Malhotra
 🎓 CS @ UC Riverside | AI + Startup Enthusiast  
 🔭 Interested in AI, NLP, and Building Cool Stuff  
